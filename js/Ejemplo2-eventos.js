@@ -1,4 +1,5 @@
 //Gabriela Lilith Quiroga Cleto
+//Ingeniería en Sistemas Computacionales
 //23 de Noviembre del 2023
 
 'use strict'
